@@ -8,7 +8,7 @@ import { FullServiceSolutions } from '@/components/landing/full-service-solution
 
 export default function Home() {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen bg-white">
       <main className="flex-1">
         <Hero />
         <WhyChooseUs />
@@ -16,6 +16,7 @@ export default function Home() {
         <FullServiceSolutions />
         <Faq />
       </main>
+
       <Separator className="bg-border/50" />
       <Footer />
     </div>
