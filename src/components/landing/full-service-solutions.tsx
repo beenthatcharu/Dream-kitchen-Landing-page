@@ -25,18 +25,8 @@ const solutions = [
     description:
       'End-to-end project execution for a cohesive, beautifully designed home.',
   },
-  {
-    id: 'bathroom-vanity',
-    title: 'Bathroom Vanity',
-    description:
-      'Spa-like bathrooms with waterproof vanities, modern fixtures, and smart storage that combines hygiene with style.',
-  },
-  {
-    id: 'complete-home',
-    title: 'Complete Home Solutions',
-    description:
-      'End-to-end interior design for your entire home with cohesive design language and seamless execution.',
-  },
+ 
+ 
 ];
 
 // ⭐ Normalize IDs to avoid mismatches (THIS FIXES THE ERROR)
