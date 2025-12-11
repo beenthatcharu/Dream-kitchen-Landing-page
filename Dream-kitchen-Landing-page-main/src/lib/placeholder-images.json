@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A modern and elegant living room interior.",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1765364004/ChatGPT_Image_Dec_10_2025_12_15_10_PM_1_hzty42.png",
+      "imageHint": "modern interior"
+    },
+    {
+      "id": "wardrobes",
+      "description": "Modular wardrobes with premium finishes and thoughtful storage.",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1765349644/ChatGPT_Image_Dec_10_2025_12_20_17_PM_vjkjde.png",
+      "imageHint": "modern wardrobes"
+    },
+    {
+      "id": "entertainment-units",
+      "description": "Designer units with smart lighting, clean structure, and premium finishes.",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1765349378/ChatGPT_Image_Dec_10_2025_12_02_26_PM_f8xlxp.png",
+      "imageHint": "Entertainment Units"
+    },
+    {
+      "id": "bathroom-vanities",
+      "description": "Moisture-proof, stylish, and built for everyday use.",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1765348200/ChatGPT_Image_Dec_10_2025_11_56_24_AM_jsk1yc.png",
+      "imageHint": "modern bathroom Vanities"
+    },
+    {
+      "id": "kitchen-1",
+      "description": "A modern kitchen with light wood cabinets and a large island.",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1765346993/ChatGPT_Image_Dec_10_2025_11_37_40_AM_snmeti.png",
+      "imageHint": "modern kitchen"
+    },
+    {
+      "id": "kitchen-2",
+      "description": "Modern light-wood kitchen with clean lines",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1765346502/ChatGPT_Image_Dec_10_2025_11_30_40_AM_vsqdnt.png",
+      "imageHint": "modular kitchen"
+    },
+    {
+      "id": "kitchen-3",
+      "description": "Bright white laminate kitchen with warm wooden counters",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1765346161/ChatGPT_Image_Dec_10_2025_11_23_15_AM_xq1vot.png",
+      "imageHint": "bright kitchen"
+    },
+    {
+      "id": "complete-home-solutions",
+      "description": "End-to-end project execution for a cohesive, beautifully designed home.",
+      "imageUrl": "https://res.cloudinary.com/dtc8bbbco/image/upload/v1765349046/ChatGPT_Image_Dec_10_2025_12_12_01_PM_cstfun.png",
+      "imageHint": "complete home solutions"
+    }
+  ]
+}
