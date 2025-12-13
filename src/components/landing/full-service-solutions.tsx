@@ -29,7 +29,7 @@ const solutions = [
  
 ];
 
-// ⭐ Normalize IDs to avoid mismatches (THIS FIXES THE ERROR)
+
 const normalize = (str = '') =>
   str.toLowerCase().replace(/[^a-z0-9]/g, '');
 
@@ -38,7 +38,7 @@ export function FullServiceSolutions() {
     const placeholder =
       PlaceHolderImages.find(
         (img) => normalize(img.id) === normalize(solution.id)
-      ) || {}; // ⭐ fallback ensures nothing is undefined
+      ) || {}; 
 
     return { ...solution, ...placeholder };
   });
@@ -71,7 +71,7 @@ export function FullServiceSolutions() {
                     data-ai-hint={solution.imageHint}
                   />
                 ) : (
-                  // fallback UI so React never crashes
+                  
                   <div className="w-full h-full bg-muted flex items-center justify-center text-foreground/60 text-sm">
                     Image coming soon
                   </div>

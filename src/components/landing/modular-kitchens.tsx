@@ -79,7 +79,7 @@ export function ModularKitchens() {
                 <Link href="#consultation-form">GET A FREE KITCHEN QUOTE</Link>
               </Button>
 
-              {/* ⭐ Added Content (Nothing Deleted) */}
+              
               <div className="mt-6 space-y-3 text-foreground/80 text-sm sm:text-base">
                 <p>• Modern light-wood kitchen with clean lines</p>
                 <p>• Sleek acrylic kitchen with integrated appliances</p>
@@ -88,7 +88,7 @@ export function ModularKitchens() {
             </div>
           </div>
 
-          {/* ✔ Image Grid — unchanged */}
+          
           <div className="grid grid-cols-2 gap-4">
             {kitchenImages[0] && (
               <div className="aspect-[4/3] relative col-span-2">

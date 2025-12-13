@@ -18,7 +18,13 @@ export function Footer() {
           </span>
           <br />
           <span className="text-foreground/70">
-            Call / WhatsApp: +91  9403893424
+            Call :{' '}
+            <a
+              href="tel:+919403893424"
+              className="text-primary font-semibold hover:underline"
+            >
+              +91 9403893424
+            </a>
           </span>
         </p>
 

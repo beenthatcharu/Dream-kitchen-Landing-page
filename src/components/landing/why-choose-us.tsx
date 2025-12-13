@@ -75,7 +75,7 @@ export function WhyChooseUs() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {benefits.map((benefit, index) => {
-              const Icon = benefit.icon; // ⭐ FIXED — dynamic JSX component must be capitalized
+              const Icon = benefit.icon; 
 
               return (
                 <div
@@ -101,7 +101,7 @@ export function WhyChooseUs() {
         </div>
       </section>
 
-      {/* ⭐ NEW SECTION BELOW */}
+      
       <section className="py-16 sm:py-24 bg-background">
         <div className="container mx-auto px-4 text-center max-w-3xl">
           <h3 className="text-3xl md:text-4xl font-headline font-bold mb-4">

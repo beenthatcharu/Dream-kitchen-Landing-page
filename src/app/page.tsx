@@ -16,8 +16,6 @@ export default function Home() {
         <FullServiceSolutions />
         <Faq />
       </main>
-
-      <Separator className="bg-border/50" />
       <Footer />
     </div>
   );

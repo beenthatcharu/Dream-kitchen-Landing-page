@@ -22,14 +22,14 @@ const faqs = [
       'We use HDHMR, soft-close hardware, and high-quality laminates, acrylic, and PU finishes.',
   },
 
-  // ⭐ NEW FAQ 1 (added)
+  
   {
     question: 'Is after-sales support provided?',
     answer:
       'Yes, our in-house team handles installation, service, and long-term support.',
   },
 
-  // ⭐ NEW FAQ 2 (added)
+  
   {
     question: 'Can you work within tight budgets?',
     answer:

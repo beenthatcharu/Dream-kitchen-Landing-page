@@ -21,7 +21,7 @@ export function Hero() {
         />
       )}
 
-      {/* Updated overlay (ONLY updated, not deleted) */}
+      
       <div className="absolute inset-0 bg-black/50" />
 
       <div className="relative z-10 container max-w-6xl grid md:grid-cols-2 gap-8 md:gap-16 items-center px-4">
